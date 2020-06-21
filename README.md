@@ -27,6 +27,28 @@ A Colorado Board of Elections employee has given you the following tasks to comp
  - The Winner of the election was Diana DeGette who received 73.8% of the vote and 272,892 votes
  
  ## Challenge Overview
+ Determine the number of votes that were cast from each county and the percentage of votes each county contributed to the election
+ 
+ 1. Identify the 3 counties
+ 2. Calculate the number of votes for each county
+ 3. Calculate the percentage of votes for each county
+ 4. Determine the county with the largest Turnout
+ 
+ ## Resources
+ 
+ - Data Source: election_results.csv
+ - Software: Python 3.6.1, Visual Studio Code, 1.38.1
  
  ## Challenge Summary
+ - The 3 counties that voted in the election were 
+     - Jefferson
+     - Denver
+     - Arapahoe
+ - The county results were
+     - Jefferson received 10.5% of the vote with 38,855 votes
+     - Denver received 82.8% of the vote with 306,055 votes
+     - Arapahoe received 6.7% of the votes with 24,801 votes
+ - The county with the largest turnout was Denver who received 82.8% of the vote and 306,055 votes
+ 
+ 
     
